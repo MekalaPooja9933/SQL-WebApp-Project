@@ -22,8 +22,6 @@ While some customers prefer personalized interactions with bank staff for comple
 <h1>Project Description:</h1>
 The banking system plays a crucial role in the economy by providing financial services to individuals, businesses, and governments. Traditional banking services involve various operations and functionalities that are essential for managing financial transactions and assets. Below are key aspects and features of a banking system:
 
-<img src="https://github.com/MekalaPooja9933/YogaFlow-Academy-Azure/blob/main/Dataprotection2.png?raw=true">
-
 <h1>Final Project Statement:</h1>
 This BankStride Money Website helps user to create account, login check balance, Transfor amount from one account to another account and close the account. 
 
