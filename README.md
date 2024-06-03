@@ -24,6 +24,7 @@ The banking system plays a crucial role in the economy by providing financial se
 <h1>Website Live Images</h1>
 <img src="https://github.com/MekalaPooja9933/SQL-WebApp-Project/blob/master/HomePage.png">
 
+
 <h1>Final Project Statement:</h1>
 This BankStride Money Website helps user to create account, login check balance, Transfor amount from one account to another account and close the account. 
 
